@@ -29,7 +29,7 @@ python clientApp.py
 ```
 ## 6 To detect lanes in image press 1 and for video press 2
 
-Output
+# Output
 
 ## For image
 
